@@ -5,8 +5,9 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "watch": "ng build --watch --configuration development",
-    "test": "ng test"
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
   },
   "private": true,
   "dependencies": {
@@ -25,7 +26,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.1100.3",
-    "@angular/cli": "^11.0.7",
+    "@angular/cli": "~11.0.3",
     "@angular/compiler-cli": "~11.0.3",
     "@types/jasmine": "~3.6.0",
     "@types/node": "^12.11.1",
