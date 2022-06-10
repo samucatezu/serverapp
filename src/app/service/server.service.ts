@@ -8,7 +8,11 @@ import { Server } from '../interface/server';
 
 @Injectable({ providedIn: 'root' })
 export class ServerService {
-  private readonly apiUrl = 'http://localhost:8080';
+  // private readonly apiUrl = 'https://server-manager-samucatezu.herokuapp.com';
+  // private readonly apiUrl = 'http://localhost:8080';
+  private readonly apiUrl = 'http://servermanagerbackend-env-1.eba-uu28akxc.us-east-1.elasticbeanstalk.com/';
+  
+
 
   constructor(private http: HttpClient) { }
 
