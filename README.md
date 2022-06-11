@@ -11,7 +11,7 @@ Confira o Front-end aqui: https://github.com/samucatezu/serverapp
 - CRUD de servidores
 - Lista de todos os servidores
 - Reports de todos os servidores da lista em xls
-- Checagem de pings para servidores da mesma rede local
+- Checagem de pings para servidores da mesma rede local com *state*
 
 # Telas
 
