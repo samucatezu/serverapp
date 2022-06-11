@@ -39,3 +39,16 @@ run the application:
 ```
 npm start 
 ```
+
+# Tutoriais seguidos: 
+https://www.youtube.com/watch?v=8ZPsZBcue50&t=3675s
+
+https://www.youtube.com/watch?v=JAyjGiQHWf8&t=1688s
+
+https://www.youtube.com/watch?v=4NmfQ2qZZjM&t=2s
+
+https://www.youtube.com/watch?v=9SGDpanrc8U
+
+https://www.youtube.com/watch?v=9SGDpanrc8U
+
+```⚠️ O projeto ainda precisa de alguns reparos de CORs policy para poder fazer o deploy porem, em localhost, o mesmo funciona perfeitamente ⚠```
